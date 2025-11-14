@@ -5,7 +5,7 @@
 
 
 ## Live URL
-https://streaming-dashboard.vercel.app
+https://streaming-dashboard-ebon.vercel.app
 
 ## GitHub Repo
 https://github.com/saikindigeri/streaming-dashboard

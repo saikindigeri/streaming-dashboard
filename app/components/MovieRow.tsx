@@ -54,7 +54,7 @@ export default function MovieRow({ movies, categoryTitle }: MovieRowProps) {
         {/* scrollable area */}
         <div
           ref={scrollContainer}
-          className="flex gap-3 overflow-x-auto py-4 scrollbar-hide scroll-smooth"
+          className="flex gap-3 overflow-x-auto py-4 "
         >
           {movies.map((m) => {
             const posterUrl =
